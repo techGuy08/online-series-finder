@@ -33,3 +33,18 @@ header {
   border-radius: 10px;
   cursor: pointer;
 }
+input.search-bar {
+    font-size: 20px;
+    margin: 8px auto 20px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+h4 {
+    font-size: 23px;
+}
+
+.App-intro {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
